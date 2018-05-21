@@ -48,7 +48,7 @@
 									<host>localhost</host>
 									<port>8977</port>
 									<path>/</path>
-									<pactFileDirectory>../acceptedPacts</pactFileDirectory>
+									<pactFileDirectory>../acceptedPacts1</pactFileDirectory>
 								</serviceProvider>
 							</serviceProviders>
 						</configuration>
